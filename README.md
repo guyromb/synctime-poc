@@ -3,6 +3,9 @@ Implementing a simple Express Node.Js server to supply time end-point, and sync 
 A better implemenration would be using websocket (lower latency, live)
 
 Install:
-```npm i```
+
+```git clone https://github.com/guyromb/timesync-poc && cd timesync-poc && npm i```
+
 Start:
+
 ```npm start```
