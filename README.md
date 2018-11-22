@@ -4,6 +4,5 @@ A better implemenration would be using websocket (lower latency, live)
 
 Install:
 ```npm i```
-
 Start:
-````npm start```
+```npm start```
